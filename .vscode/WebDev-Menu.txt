@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<article>
+  <header>
+    <h1>when</h1>
+    <p>Posted by ur mum</p>
+    <p>Some additional bs here</p>
+<ul>
+  <li><a href="#menu">Menu</a></li>
+  <li><a href="#order">Order</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#gallery">Gallery</a></li>
+  
+</ul>
+
+<h1>This button will change your life</h1>
+
+<button type="button" onclick="alert('lol u took the red pill kys')">Take the red pill</button>
+
+<h2>HTML Image</h2>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>kys lol</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+
+<p>Note: get fukd.</p>
+
+</body>
+</html>
